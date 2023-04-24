@@ -1,17 +1,18 @@
 {
-    "name": "arshinalbab/basic-math-operations",
-    "description": "Functions to run the basic math operations",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "BasicMathOperations\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Arshin Albab",
-            "email": "arshinalbab@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "arshinalbab/basic-math-operations",
+  "description": "Functions to run the basic math operations",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "BasicMathOperations\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Arshin Albab",
+      "email": "arshinalbab@gmail.com"
+    }
+  ],
+  "require": {}
 }
